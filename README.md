@@ -1,6 +1,6 @@
 # Rust Analyzer + Multiple Sqlx Bug Repro
 
-This is a reproduction of the bug described in [https://github.com/rust-lang/rust-analyzer/issues/18533](Issue #18533).
+This is a reproduction of the bug described in [Issue #18533](https://github.com/rust-lang/rust-analyzer/issues/18533).
 
 This repo is a workspace with two crates, `sqlite_red` and `sqlite_yellow`.
 
